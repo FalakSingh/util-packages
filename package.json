@@ -1,0 +1,12 @@
+{
+  "name": "util-packages",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "author": "Falak Singh",
+  "license": "MIT",
+  "private":"true",
+  "workspaces": [
+    "packages/*"
+  ]
+}
